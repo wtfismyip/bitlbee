@@ -40,3 +40,5 @@ debian/build-native
 debian/files
 .clangd
 compile_commands.json
+test_utf8_vuln
+test_utf8_vuln_noasan
